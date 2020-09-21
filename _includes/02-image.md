@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Memoji of Anthony Morris](https://raw.githubusercontent.com/amorriscode/amorriscode/master/memoji.png)
